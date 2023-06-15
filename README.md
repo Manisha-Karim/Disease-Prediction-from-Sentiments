@@ -3,7 +3,7 @@
 
 This project's goal is to categorize patient conditions using drug reviews. The most frequent 10 diseases were considered from a total of 150 diseases.
 
-##Features:
+## Features:
 
 DrugName (categorical): The name of the medication under review by the patient. This feature will be used to categorize reviews by substance and evaluate how well each medication works for various ailments.
 
